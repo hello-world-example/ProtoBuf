@@ -9,7 +9,7 @@
     - [[翻译] ProtoBuf 官方文档（一）- 开发者指南](https://www.jianshu.com/p/bdd94a32fbd1)
     - [Protobuf 的 proto3 与 proto2 的区别](https://solicomo.com/network-dev/protobuf-proto3-vs-proto2.html)
     - IBM Developer [Google Protocol Buffer 2 的使用和原理](https://www.ibm.com/developerworks/cn/linux/l-cn-gpb/index.html)
-    
+    - [Google Protocol Buffers 入门（protobuf tutorial译文）](https://o-u-u.com/?p=2135)
 
 
 > docsify serve ./docs
